@@ -1,7 +1,7 @@
-## TMUX Configuration
+# TMUX Configuration
 Here is my tmux configuration file.
 
-# Plugins
+## Plugins
 tmux: https://github.com/tmux/tmux
 tmux package manager: https://github.com/tmux-plugins/tpm
 tmux resurrect: https://github.com/tmux-plugins/tmux-resurrect
